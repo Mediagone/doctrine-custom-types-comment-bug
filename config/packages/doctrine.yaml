@@ -5,6 +5,7 @@ doctrine:
         types:
             # Add your custom Doctrine types here
             same: App\Doctrine\SameType
+            different: App\Doctrine\OtherType
             
             
             
